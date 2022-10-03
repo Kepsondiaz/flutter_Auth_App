@@ -89,3 +89,4 @@ class _WelcomePageState extends State<WelcomePage> {
     );
   }
 }
+// main page of the application
