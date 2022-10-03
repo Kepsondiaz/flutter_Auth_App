@@ -13,3 +13,4 @@ class RegisterPage extends StatelessWidget {
     );
   }
 }
+// registration page
